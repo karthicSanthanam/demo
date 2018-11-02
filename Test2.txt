@@ -1,0 +1,3 @@
+Hi There,
+
+   This is second doc into my git.

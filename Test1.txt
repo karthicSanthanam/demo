@@ -1,0 +1,3 @@
+Hi There,
+
+   This is first doc into my git.
