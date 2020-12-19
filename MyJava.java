@@ -5,3 +5,4 @@ class MyJava {
 
 
 }
+// This is my Java class
