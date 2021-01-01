@@ -1,4 +1,4 @@
-// This is from GIT local.
+// This is from GIT local - 1 comment.
 
 class MyJava {
 
