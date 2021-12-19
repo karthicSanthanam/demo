@@ -12,11 +12,12 @@ class MyJava {
       System.out.println("Added directly in github.")
 	  
 	  // Resolving merge conflict on 19-Dec-2021 - Start
-	  
+
 	  System.out.println("Developer 1 code.")
 	  
-	  // Resolving merge conflict on 19-Dec-2021 - End
-      
+	  System.out.println("Developer 2 code.")
+	  
+	  // Resolving merge conflict on 19-Dec-2021 - End      
 
    }
 
