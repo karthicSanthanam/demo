@@ -25,6 +25,11 @@ class MyJava {
 	  
 	  // Rebase check - End
 
+	  // Rebase check - Start
+
+	  System.out.println("Developer 2 code change for bug 2.")
+	  
+	  // Rebase check - End
    }
 
 
