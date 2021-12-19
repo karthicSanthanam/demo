@@ -10,7 +10,12 @@ class MyJava {
       System.out.println("Line 2 20-June-2021");
       
       System.out.println("Added directly in github.")
-      
+	  
+	  // Resolving merge conflict on 19-Dec-2021 - Start
+	  
+	  System.out.println("Developer 2 code.")
+	  
+	  // Resolving merge conflict on 19-Dec-2021 - End      
 
    }
 
