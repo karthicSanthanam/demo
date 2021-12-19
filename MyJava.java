@@ -17,7 +17,13 @@ class MyJava {
 	  
 	  System.out.println("Developer 2 code.")
 	  
-	  // Resolving merge conflict on 19-Dec-2021 - End      
+	  // Resolving merge conflict on 19-Dec-2021 - End     
+
+	  // Rebase check - Start
+
+	  System.out.println("Developer 1 code change for bug 1.")
+	  
+	  // Rebase check - End
 
    }
 
